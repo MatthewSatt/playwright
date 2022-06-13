@@ -1,0 +1,39 @@
+{
+  "cookies": [
+    {
+      "sameSite": "Lax",
+      "name": "csrf_token",
+      "value": "ImZkOGY0MzJhOGRjZjU1M2FiZDJhYWRkN2I0MDM0ODA1Y2EwMjVmNmUi.YqcTOA.labahKq9wuWdp1s-yQ2_B1XupA8",
+      "domain": "appmood.herokuapp.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false
+    },
+    {
+      "sameSite": "Lax",
+      "name": "session",
+      "value": "eyJfZnJlc2giOmZhbHNlLCJjc3JmX3Rva2VuIjoiZmQ4ZjQzMmE4ZGNmNTUzYWJkMmFhZGQ3YjQwMzQ4MDVjYTAyNWY2ZSJ9.YqcTOA.KFmsJ_8hSYu6Cmpy3aDlhl78h4o",
+      "domain": "appmood.herokuapp.com",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false
+    }
+  ],
+  "origins": [
+    {
+      "origin": "http://appmood.herokuapp.com",
+      "localStorage": [
+        {
+          "name": "iconify-count",
+          "value": "0"
+        },
+        {
+          "name": "iconify-version",
+          "value": "iconify2"
+        }
+      ]
+    }
+  ]
+}
